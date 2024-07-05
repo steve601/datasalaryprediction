@@ -1,0 +1,532 @@
+designation,age,salary,unit,ratings,experience
+Analyst,22,45249,Management,3.0,2
+Analyst,25,44664,Operations,4.0,3
+Analyst,23,44712,Marketing,5.0,1
+Analyst,23,41988,Operations,3.0,2
+Analyst,21,44134,Marketing,2.0,1
+Analyst,25,45485,Web,5.0,3
+Analyst,25,41308,IT,3.0,3
+Analyst,25,45729,IT,5.0,3
+Analyst,22,47525,IT,4.0,2
+Analyst,21,48203,Web,2.0,2
+Analyst,21,48223,IT,2.0,2
+Analyst,23,43681,Operations,3.0,1
+Analyst,22,45221,Management,4.0,2
+Analyst,21,43601,IT,2.0,2
+Analyst,24,49654,Finance,4.0,2
+Analyst,25,46584,Marketing,4.0,3
+Analyst,25,40403,Marketing,3.0,3
+Analyst,23,46425,Operations,2.0,2
+Analyst,25,46004,Marketing,2.0,3
+Analyst,22,44305,Finance,4.0,2
+Analyst,24,48441,IT,3.0,2
+Analyst,21,46733,Web,2.0,1
+Analyst,24,43429,Web,3.0,2
+Analyst,24,47194,Marketing,2.0,3
+Analyst,23,40411,IT,4.0,2
+Analyst,21,49470,Web,4.0,2
+Analyst,23,44820,Operations,2.0,1
+Analyst,21,43835,Marketing,2.0,2
+Analyst,21,41257,Web,3.0,1
+Analyst,24,40820,Operations,3.0,2
+Analyst,21,46640,Operations,5.0,2
+Analyst,25,46564,Operations,4.0,4
+Analyst,24,41312,Web,3.0,2
+Senior Analyst,26,60394,Marketing,5.0,4
+Associate,29,71488,IT,2.0,5
+Analyst,22,43483,Management,4.0,1
+Analyst,25,47881,Marketing,3.0,4
+Analyst,23,43188,IT,2.0,1
+Analyst,25,44015,IT,3.0,3
+Analyst,23,49095,Finance,2.0,2
+Analyst,22,49111,Marketing,2.0,3
+Analyst,21,48886,Operations,3.0,1
+Analyst,23,48179,IT,2.0,2
+Analyst,23,44001,Management,3.0,2
+Analyst,22,41929,IT,3.0,1
+Analyst,22,48730,Management,2.0,1
+Analyst,22,45538,IT,3.0,0
+Analyst,21,46772,Operations,4.0,1
+Analyst,23,47633,Operations,5.0,1
+Analyst,22,40403,Marketing,5.0,2
+Analyst,24,49602,Operations,5.0,2
+Analyst,24,42910,Management,4.0,2
+Analyst,24,49075,IT,3.0,3
+Analyst,25,48263,Operations,3.0,4
+Analyst,23,45323,Web,3.0,1
+Analyst,23,49873,Web,5.0,2
+Analyst,23,45606,Finance,4.0,2
+Analyst,21,48331,Operations,3.0,1
+Analyst,22,48555,Operations,4.0,1
+Analyst,21,42879,Finance,5.0,2
+Analyst,21,46170,IT,2.0,2
+Senior Analyst,26,57046,Web,2.0,3
+Analyst,24,45896,Web,2.0,3
+Senior Analyst,25,62960,Operations,2.0,3
+Analyst,22,49326,Web,3.0,2
+Analyst,24,49636,Operations,4.0,3
+Senior Analyst,25,51817,IT,3.0,4
+Analyst,21,41250,IT,5.0,1
+Analyst,24,41653,Marketing,5.0,3
+Analyst,23,48364,Finance,3.0,2
+Analyst,24,42052,IT,5.0,2
+Analyst,22,42178,Web,3.0,1
+Analyst,22,43508,Management,4.0,1
+Analyst,22,42839,Finance,5.0,2
+Analyst,25,40508,Management,4.0,3
+Senior Analyst,26,64060,Web,4.0,3
+Analyst,25,44632,Management,3.0,3
+Senior Analyst,25,55001,Operations,2.0,1
+Analyst,25,41679,Web,2.0,4
+Analyst,22,42673,Operations,2.0,2
+Senior Analyst,28,65656,Operations,2.0,4
+Analyst,25,48903,IT,3.0,4
+Analyst,25,42410,Finance,5.0,3
+Senior Analyst,28,65267,Operations,4.0,2
+Analyst,23,40413,IT,5.0,2
+Senior Analyst,28,68079,Management,5.0,3
+Analyst,24,46215,Finance,3.0,2
+Analyst,23,44832,Web,4.0,3
+Analyst,25,46064,IT,3.0,4
+Analyst,25,47174,Management,3.0,4
+Analyst,21,45485,Operations,2.0,2
+Analyst,22,41550,Management,5.0,1
+Analyst,25,43909,Operations,4.0,3
+Analyst,24,42333,Web,3.0,2
+Analyst,24,43343,Web,4.0,2
+Analyst,22,45997,Management,3.0,1
+Analyst,21,48240,Management,4.0,1
+Analyst,24,45870,Web,3.0,3
+Analyst,23,47701,Operations,5.0,2
+Analyst,25,47135,Operations,5.0,3
+Analyst,23,43586,Operations,2.0,1
+Analyst,22,48177,IT,3.0,2
+Analyst,23,42925,Management,3.0,2
+Analyst,22,41694,Finance,3.0,1
+Analyst,24,40594,IT,5.0,2
+Analyst,25,43991,Management,4.0,3
+Analyst,21,48295,Web,4.0,2
+Analyst,22,48860,Management,3.0,1
+Analyst,22,48650,Operations,5.0,2
+Analyst,21,45331,Finance,2.0,1
+Analyst,24,40704,Marketing,5.0,3
+Analyst,22,49703,Operations,3.0,3
+Analyst,23,41718,Management,4.0,2
+Analyst,21,42754,Marketing,3.0,2
+Analyst,21,40980,Marketing,3.0,2
+Analyst,22,41227,IT,2.0,2
+Senior Analyst,25,61221,Marketing,3.0,3
+Analyst,22,46848,Marketing,2.0,2
+Analyst,22,44207,Finance,4.0,1
+Analyst,24,43461,IT,5.0,2
+Analyst,24,47465,Marketing,4.0,2
+Analyst,22,45689,Finance,3.0,2
+Analyst,23,41904,Management,2.0,2
+Analyst,23,47498,Finance,5.0,2
+Analyst,25,47178,Management,3.0,3
+Senior Analyst,28,65607,Management,2.0,2
+Analyst,25,42070,Management,2.0,4
+Analyst,23,46418,Marketing,2.0,2
+Analyst,24,40329,Finance,2.0,3
+Analyst,24,42416,Web,5.0,2
+Analyst,24,43714,IT,2.0,3
+Analyst,24,41290,Operations,3.0,3
+Analyst,23,40669,Marketing,3.0,2
+Analyst,25,47849,IT,2.0,4
+Analyst,21,44513,Operations,4.0,1
+Analyst,25,42008,IT,2.0,4
+Analyst,25,40553,Marketing,5.0,3
+Analyst,24,49908,Web,4.0,2
+Analyst,25,46386,IT,3.0,3
+Analyst,23,43676,Marketing,2.0,2
+Analyst,22,47812,Operations,5.0,1
+Analyst,25,46623,Management,5.0,3
+Analyst,23,45156,IT,3.0,1
+Analyst,22,45054,Marketing,2.0,1
+Analyst,23,40196,Finance,5.0,1
+Analyst,24,46776,Operations,5.0,2
+Senior Analyst,27,69329,Operations,4.0,2
+Analyst,22,44448,Web,4.0,2
+Analyst,25,42221,IT,4.0,3
+Analyst,21,48221,Management,3.0,2
+Analyst,21,40902,IT,5.0,2
+Analyst,24,47588,IT,3.0,3
+Analyst,23,43777,Web,3.0,2
+Analyst,24,46907,IT,3.0,2
+Analyst,25,40288,Finance,3.0,3
+Analyst,22,45926,Finance,2.0,1
+Analyst,23,40324,Operations,2.0,2
+Analyst,21,49905,Finance,5.0,1
+Analyst,21,45277,IT,3.0,1
+Analyst,22,40438,Operations,5.0,2
+Senior Analyst,28,65927,Finance,2.0,4
+Analyst,21,46734,Web,5.0,2
+Senior Analyst,25,64913,Finance,4.0,4
+Senior Analyst,26,60014,Operations,5.0,4
+Analyst,22,47039,Marketing,2.0,1
+Senior Analyst,26,67194,Web,2.0,2
+Analyst,23,42465,Marketing,3.0,2
+Analyst,22,47519,Management,5.0,1
+Analyst,21,42760,Marketing,2.0,2
+Senior Analyst,28,61413,Web,5.0,7
+Analyst,25,46071,Marketing,4.0,4
+Senior Analyst,28,62243,Web,4.0,3
+Analyst,25,41583,IT,5.0,3
+Analyst,23,42056,IT,3.0,2
+Analyst,23,41142,Operations,3.0,2
+Analyst,24,47577,Web,5.0,2
+Analyst,22,48305,Web,5.0,1
+Analyst,22,49710,Management,4.0,1
+Analyst,22,49896,IT,4.0,1
+Analyst,23,40998,Management,5.0,2
+Analyst,22,46261,Marketing,5.0,2
+Analyst,24,43433,Finance,5.0,2
+Analyst,23,47469,Operations,4.0,1
+Analyst,24,45621,Marketing,4.0,2
+Analyst,21,45316,IT,2.0,1
+Analyst,25,43225,Operations,2.0,4
+Analyst,24,49217,Operations,4.0,3
+Analyst,25,43194,Operations,2.0,4
+Analyst,23,41662,IT,5.0,2
+Analyst,21,47018,Operations,3.0,2
+Analyst,21,47315,Web,5.0,1
+Analyst,23,49015,IT,3.0,2
+Analyst,23,42160,Finance,3.0,1
+Analyst,22,46770,Web,3.0,1
+Analyst,21,40381,Web,2.0,1
+Analyst,23,49248,Operations,3.0,2
+Analyst,23,41760,IT,4.0,2
+Senior Analyst,26,65875,IT,2.0,1
+Analyst,25,43659,Web,5.0,4
+Analyst,24,49110,IT,2.0,3
+Analyst,22,41989,IT,5.0,2
+Analyst,25,46322,Operations,3.0,3
+Analyst,25,42400,Operations,3.0,3
+Analyst,25,45865,Management,4.0,3
+Analyst,25,43860,Web,2.0,4
+Analyst,22,40562,Marketing,2.0,2
+Senior Analyst,26,60520,Finance,5.0,3
+Analyst,25,44366,Web,4.0,4
+Analyst,25,49190,Marketing,3.0,4
+Analyst,24,41146,IT,5.0,2
+Analyst,25,43474,Management,5.0,4
+Analyst,22,46098,Operations,4.0,2
+Senior Analyst,28,69841,Management,5.0,2
+Analyst,21,46432,Operations,4.0,2
+Analyst,22,46427,IT,4.0,1
+Analyst,22,41035,Management,4.0,1
+Analyst,21,43740,Marketing,3.0,2
+Analyst,22,44997,IT,4.0,1
+Analyst,23,47216,IT,3.0,2
+Analyst,25,47747,Operations,5.0,4
+Analyst,22,47998,Marketing,5.0,1
+Analyst,22,45099,Operations,2.0,1
+Senior Analyst,27,50084,Management,2.0,2
+Analyst,21,43328,Web,3.0,2
+Analyst,22,43210,Operations,3.0,2
+Analyst,24,41514,Operations,4.0,2
+Analyst,22,46540,Operations,2.0,1
+Analyst,24,44599,IT,2.0,3
+Analyst,21,49826,Operations,3.0,0
+Analyst,24,49581,Management,5.0,2
+Analyst,22,41705,Operations,2.0,2
+Associate,32,75024,IT,3.0,6
+Analyst,22,43132,IT,3.0,1
+Analyst,23,48730,IT,2.0,2
+Analyst,25,46808,Web,3.0,4
+Analyst,21,41962,Management,3.0,1
+Analyst,25,47201,IT,5.0,3
+Analyst,22,41861,Finance,3.0,2
+Analyst,21,44412,Operations,5.0,2
+Analyst,22,41760,Finance,2.0,2
+Analyst,21,41564,Finance,5.0,2
+Analyst,22,41265,Web,4.0,2
+Analyst,25,41668,Finance,5.0,4
+Analyst,24,46822,Operations,2.0,2
+Analyst,22,45527,Marketing,5.0,3
+Analyst,25,48171,Management,2.0,4
+Analyst,24,47386,Management,2.0,2
+Analyst,25,41345,Web,5.0,4
+Associate,30,73718,IT,5.0,5
+Senior Analyst,26,68245,Finance,3.0,2
+Analyst,24,42338,Management,4.0,2
+Analyst,24,46779,Web,3.0,3
+Analyst,22,40992,Finance,5.0,2
+Analyst,22,42263,Finance,4.0,1
+Analyst,21,48102,Finance,4.0,2
+Analyst,25,45188,Management,3.0,3
+Analyst,22,42469,Management,3.0,2
+Senior Analyst,27,55417,IT,2.0,3
+Analyst,22,45673,Operations,2.0,1
+Senior Analyst,25,68996,Operations,2.0,2
+Analyst,25,46941,Marketing,3.0,3
+Senior Analyst,25,69966,Marketing,5.0,4
+Analyst,22,44856,IT,4.0,1
+Analyst,25,41203,Management,5.0,3
+Analyst,24,49530,Finance,3.0,2
+Analyst,24,48018,Management,3.0,2
+Senior Analyst,25,59907,IT,5.0,1
+Analyst,21,48190,Management,3.0,2
+Senior Analyst,27,64798,Web,3.0,2
+Analyst,24,44069,IT,4.0,3
+Analyst,25,45998,Finance,5.0,4
+Analyst,22,48962,Web,2.0,2
+Analyst,23,41899,Finance,2.0,1
+Analyst,21,41416,Marketing,5.0,1
+Analyst,22,42723,Marketing,4.0,1
+Analyst,22,41819,Web,5.0,1
+Analyst,24,40950,Management,5.0,2
+Analyst,22,48618,Web,2.0,2
+Analyst,25,47477,Management,3.0,4
+Analyst,21,49048,Operations,2.0,1
+Analyst,21,40332,IT,3.0,1
+Analyst,24,46485,Marketing,4.0,3
+Analyst,24,48976,Finance,2.0,3
+Analyst,23,43776,Operations,2.0,2
+Analyst,21,49453,Web,5.0,1
+Analyst,21,43185,IT,5.0,2
+Analyst,22,45538,Finance,4.0,2
+Analyst,23,42793,Marketing,3.0,2
+Analyst,21,41476,Marketing,2.0,2
+Senior Analyst,25,55472,Finance,3.0,1
+Analyst,22,44478,Web,4.0,1
+Analyst,25,42666,Finance,5.0,4
+Analyst,23,43288,Operations,5.0,1
+Senior Analyst,25,64737,Marketing,5.0,3
+Analyst,21,41225,IT,5.0,1
+Analyst,23,45957,Operations,3.0,2
+Analyst,24,47458,Finance,3.0,2
+Analyst,25,43418,Management,5.0,3
+Analyst,21,47029,IT,5.0,2
+Analyst,22,49253,Web,2.0,2
+Analyst,25,40271,IT,4.0,3
+Analyst,23,46966,Finance,4.0,1
+Analyst,21,48182,Operations,4.0,0
+Analyst,25,40219,Marketing,4.0,3
+Analyst,23,40524,Marketing,2.0,2
+Senior Analyst,25,50266,IT,3.0,3
+Analyst,24,49662,Finance,2.0,2
+Analyst,23,43818,Management,3.0,2
+Analyst,22,44555,Web,3.0,1
+Senior Analyst,25,61353,IT,2.0,3
+Senior Analyst,27,59877,Marketing,3.0,3
+Senior Analyst,26,67735,Marketing,5.0,2
+Analyst,24,43121,Management,4.0,3
+Analyst,24,45447,IT,2.0,2
+Analyst,22,45997,Operations,2.0,2
+Analyst,24,48410,Marketing,3.0,3
+Analyst,21,44693,Web,2.0,2
+Analyst,22,43240,IT,4.0,2
+Analyst,24,41981,Marketing,2.0,2
+Analyst,21,40732,Finance,2.0,1
+Analyst,21,43716,Management,2.0,2
+Analyst,25,45128,IT,3.0,4
+Analyst,21,47336,Management,4.0,2
+Analyst,22,44963,Marketing,2.0,2
+Analyst,24,40043,Management,4.0,2
+Senior Analyst,28,54514,Management,3.0,4
+Analyst,22,48360,IT,4.0,2
+Analyst,23,46693,IT,3.0,2
+Senior Analyst,26,61956,Finance,2.0,3
+Analyst,25,49466,Marketing,4.0,3
+Analyst,24,44212,Management,5.0,2
+Analyst,22,40384,Marketing,5.0,1
+Analyst,24,40406,IT,4.0,3
+Analyst,23,46824,Finance,5.0,2
+Analyst,22,41193,Finance,3.0,1
+Senior Analyst,28,52071,Management,3.0,3
+Analyst,21,40882,Finance,5.0,1
+Analyst,25,40935,Operations,2.0,4
+Analyst,22,47677,Marketing,5.0,2
+Analyst,22,42388,Management,5.0,1
+Analyst,23,46984,Web,4.0,1
+Analyst,21,49393,IT,3.0,1
+Analyst,25,49976,Web,2.0,3
+Analyst,22,48539,Operations,5.0,2
+Analyst,21,40424,IT,4.0,1
+Analyst,24,48095,Operations,5.0,2
+Analyst,24,48122,Management,2.0,2
+Analyst,21,48751,Operations,4.0,1
+Analyst,25,48808,Web,5.0,4
+Analyst,25,40105,Marketing,3.0,3
+Analyst,25,44011,Finance,4.0,4
+Analyst,22,43059,Management,3.0,2
+Analyst,25,46052,Web,4.0,3
+Analyst,25,46956,Marketing,2.0,4
+Senior Analyst,28,58745,Finance,3.0,4
+Analyst,25,41781,Web,5.0,3
+Analyst,24,48181,Finance,4.0,3
+Analyst,23,44730,Finance,3.0,1
+Analyst,22,46218,Management,2.0,1
+Analyst,24,42625,Marketing,4.0,2
+Senior Analyst,27,65594,IT,4.0,3
+Analyst,24,46509,Marketing,3.0,2
+Senior Analyst,25,55455,Finance,3.0,2
+Senior Analyst,25,66984,Marketing,5.0,1
+Analyst,22,42848,Web,3.0,2
+Analyst,22,49140,Finance,5.0,2
+Analyst,23,47719,Web,2.0,2
+Analyst,25,46295,Operations,4.0,3
+Analyst,24,40277,Web,4.0,3
+Analyst,22,45515,Finance,4.0,2
+Senior Analyst,25,57488,Operations,3.0,1
+Analyst,25,43751,IT,3.0,3
+Analyst,25,44566,Marketing,5.0,4
+Senior Analyst,27,52533,Operations,3.0,4
+Analyst,24,40310,Web,5.0,3
+Analyst,24,45174,Finance,5.0,3
+Analyst,22,41164,Management,4.0,2
+Analyst,21,47668,Operations,2.0,2
+Analyst,24,44795,Finance,5.0,2
+Senior Analyst,25,56004,Web,2.0,3
+Analyst,23,46469,Operations,4.0,1
+Analyst,22,44787,Operations,5.0,2
+Analyst,25,45674,Web,3.0,4
+Analyst,22,47316,Web,4.0,1
+Analyst,24,49928,Operations,5.0,2
+Analyst,24,45482,Management,4.0,2
+Senior Analyst,25,64112,Management,3.0,1
+Senior Analyst,25,60307,Management,2.0,3
+Analyst,21,41943,Finance,3.0,1
+Analyst,22,43807,IT,4.0,1
+Analyst,21,45042,Marketing,5.0,1
+Analyst,21,48067,Management,4.0,1
+Associate,29,73397,Web,5.0,6
+Analyst,23,42250,Operations,2.0,2
+Analyst,24,41284,Web,5.0,3
+Analyst,21,40396,Marketing,2.0,1
+Senior Analyst,25,51377,Marketing,5.0,2
+Analyst,25,44448,Finance,5.0,3
+Analyst,24,47791,Web,2.0,3
+Senior Analyst,27,56112,Management,5.0,3
+Analyst,22,42641,Web,3.0,0
+Analyst,25,43125,Operations,4.0,3
+Analyst,21,48067,Web,4.0,1
+Analyst,25,41194,IT,4.0,4
+Analyst,23,48470,Web,3.0,3
+Analyst,22,45952,Management,5.0,1
+Analyst,24,41516,Operations,2.0,3
+Analyst,22,49497,Web,4.0,1
+Analyst,21,45181,Finance,5.0,2
+Analyst,22,46471,Finance,2.0,1
+Analyst,23,45123,Web,4.0,2
+Analyst,25,48455,IT,2.0,4
+Analyst,23,47597,Finance,4.0,2
+Senior Analyst,26,66661,Finance,5.0,4
+Analyst,25,47899,Operations,3.0,3
+Analyst,25,40161,Operations,4.0,3
+Analyst,22,41159,IT,5.0,2
+Analyst,22,41222,IT,2.0,1
+Analyst,25,48915,Operations,2.0,3
+Analyst,25,44202,Management,2.0,4
+Analyst,22,48611,Marketing,5.0,1
+Analyst,23,45230,Marketing,5.0,1
+Analyst,23,48185,IT,4.0,2
+Analyst,24,43710,Finance,5.0,3
+Analyst,23,45680,Operations,3.0,2
+Analyst,21,41551,Operations,2.0,2
+Analyst,25,40946,Finance,5.0,3
+Analyst,24,47050,Web,2.0,2
+Analyst,25,40752,Operations,2.0,3
+Analyst,22,42240,IT,3.0,1
+Analyst,22,40357,Marketing,2.0,2
+Analyst,25,42637,Web,5.0,3
+Senior Analyst,25,65212,Management,5.0,4
+Analyst,21,46616,Management,3.0,2
+Senior Analyst,25,62791,Web,5.0,3
+Analyst,25,40786,IT,5.0,3
+Analyst,23,40565,Marketing,3.0,2
+Analyst,23,44699,Management,3.0,2
+Analyst,21,46813,Marketing,3.0,1
+Analyst,24,49822,Operations,3.0,2
+Analyst,23,45903,Finance,2.0,2
+Analyst,23,41037,Management,3.0,1
+Analyst,22,41378,Marketing,3.0,2
+Senior Analyst,26,50809,Operations,4.0,4
+Analyst,23,41701,Web,5.0,2
+Senior Analyst,25,58290,Operations,3.0,3
+Senior Analyst,28,61787,Marketing,5.0,3
+Analyst,22,41032,Finance,3.0,1
+Senior Analyst,28,55790,Web,4.0,3
+Analyst,22,46310,IT,4.0,1
+Analyst,22,44543,IT,2.0,1
+Senior Analyst,28,61647,Finance,4.0,4
+Senior Analyst,28,61638,Finance,5.0,3
+Analyst,23,45790,Management,2.0,1
+Analyst,23,43670,IT,2.0,2
+Analyst,24,46251,Finance,5.0,3
+Analyst,23,40787,Web,5.0,2
+Senior Analyst,28,56314,Finance,5.0,4
+Senior Analyst,26,65316,Marketing,5.0,2
+Analyst,23,48467,Operations,3.0,2
+Senior Analyst,27,53406,Web,3.0,4
+Analyst,23,47807,Management,2.0,2
+Analyst,21,43620,IT,4.0,1
+Analyst,22,40054,IT,3.0,1
+Analyst,22,43159,Web,5.0,0
+Analyst,21,43363,Marketing,2.0,2
+Analyst,24,45172,Web,3.0,2
+Analyst,23,49798,IT,3.0,2
+Senior Analyst,25,67014,IT,4.0,1
+Analyst,24,41445,Operations,2.0,2
+Analyst,22,41430,Management,2.0,1
+Analyst,24,49901,Web,4.0,2
+Analyst,24,41412,Marketing,2.0,3
+Analyst,23,40403,IT,5.0,2
+Analyst,21,40222,Web,3.0,2
+Analyst,22,42519,IT,2.0,1
+Analyst,21,43393,Marketing,4.0,1
+Analyst,23,47667,Marketing,4.0,2
+Analyst,21,40041,IT,3.0,1
+Analyst,25,46488,IT,2.0,4
+Analyst,23,47534,Finance,3.0,2
+Analyst,25,40149,Finance,2.0,3
+Analyst,24,46591,Management,5.0,2
+Analyst,24,45754,IT,2.0,2
+Analyst,25,48098,Web,2.0,3
+Analyst,21,46664,Finance,3.0,2
+Analyst,21,40095,Management,3.0,1
+Analyst,25,49111,IT,5.0,3
+Analyst,25,43272,Operations,4.0,3
+Analyst,23,45022,Finance,3.0,1
+Analyst,22,44617,Management,2.0,1
+Analyst,21,46597,IT,3.0,2
+Analyst,23,44344,Web,4.0,2
+Senior Analyst,26,54689,Management,5.0,2
+Analyst,23,46743,IT,2.0,2
+Analyst,22,45300,Web,3.0,1
+Analyst,23,45696,IT,5.0,2
+Analyst,22,49418,Marketing,4.0,2
+Analyst,23,41144,IT,5.0,2
+Senior Analyst,28,69851,Finance,4.0,4
+Analyst,24,46584,Finance,3.0,2
+Senior Analyst,26,60987,Finance,2.0,3
+Analyst,23,49052,IT,5.0,2
+Analyst,22,40040,Finance,4.0,0
+Analyst,24,44763,Web,2.0,2
+Analyst,22,48747,Operations,4.0,1
+Analyst,23,48014,Marketing,2.0,1
+Analyst,24,43949,Finance,2.0,2
+Senior Analyst,25,65919,Marketing,5.0,4
+Analyst,22,47750,Operations,4.0,2
+Analyst,23,48587,Management,4.0,2
+Analyst,23,48443,Management,4.0,1
+Analyst,22,47668,Finance,5.0,2
+Analyst,24,49470,Operations,4.0,2
+Analyst,23,40436,Operations,4.0,2
+Analyst,23,48309,Operations,5.0,1
+Analyst,23,47691,Web,4.0,2
+Analyst,22,48681,Management,3.0,2
+Analyst,24,44149,Web,3.0,3
+Senior Analyst,25,56854,Finance,2.0,1
+Senior Analyst,25,67321,IT,3.0,3
+Analyst,23,40414,Management,2.0,2
+Senior Analyst,25,56291,IT,3.0,2
+Analyst,24,40578,Marketing,4.0,2
+Analyst,22,41047,Operations,4.0,2
+Analyst,24,49368,Management,5.0,3
+Analyst,24,46726,IT,2.0,2
+Analyst,25,42210,IT,5.0,4
+Analyst,25,42362,Marketing,5.0,4
+Analyst,23,48930,Finance,3.0,2
+Analyst,25,46788,Web,5.0,4
